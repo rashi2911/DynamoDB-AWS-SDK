@@ -8,6 +8,9 @@ Configure aws-cli on your desktop
 > npm init
 
 > npm install aws-sdk --save
+  
+ To run each file:
+ > node < file-name >
 
 Refer to this article for further information:
 
